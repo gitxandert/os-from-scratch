@@ -1,4 +1,4 @@
-#Building an OS from Scratch
+# Building an OS from Scratch
 
 Why am I building an OS from scratch? Read <a href="https://gitxandert.github.io/resume-portfolio/blogs/">my blog</a> to find out.
 
