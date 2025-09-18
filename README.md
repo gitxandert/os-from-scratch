@@ -1,5 +1,7 @@
 # Building an OS from Scratch
 
-Why am I building an OS from scratch? Read <a href="https://gitxandert.github.io/resume-portfolio/blogs/">my blog</a> to find out.
+Follow <a href="https://gitxandert.github.io/resume-portfolio/blogs/">my blog</a> for my thoughts on systems-level considerations.
 
-I built the kernel by following <a href="https://wiki.osdev.org/Expanded_Main_Page">OSDev.org</a>'s <a href="https://wiki.osdev.org/Bare_Bones">Bare Bones</a> tutorial. I built the iso and tried it out in QEMU; it works! But I want to get a USB for it before I try it out on hardware.
+I built the kernel by following <a href="https://wiki.osdev.org/Expanded_Main_Page">OSDev.org</a>'s <a href="https://wiki.osdev.org/Bare_Bones">Bare Bones</a> tutorial.
+
+The shell (to be integrated) is a modification of the sketch provided in Chapter 1 of Advanced Programming in Unix Environments, Third Edition; it will work in even a bare bones POSIX kernel, though this specific one has yet to be integrated (and improved). Modifications to come.
